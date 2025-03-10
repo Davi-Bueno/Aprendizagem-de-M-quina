@@ -1,6 +1,6 @@
 # 📌 Projeto - Uso do Streamlit para deveres de Machine Learning
 
-Este repositório faz parte da matéria do **IESB** e tem como objetivo demonstrar conhecimentos na área de Machine learning
+Este repositório faz parte da matéria do **IESB** e tem como objetivo demonstrar conhecimentos na área de Machine learning e usando
 **Streamlit**.
 
 ---
