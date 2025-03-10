@@ -1,6 +1,7 @@
-# 📌 Projeto - Leitura de CSV com Streamlit
+# 📌 Projeto - Uso do Streamlit para deveres de Machine Learning
 
-Este repositório faz parte da matéria do **IESB** e tem como objetivo demonstrar como carregar e visualizar dados de um arquivo CSV utilizando **Streamlit** e **Pandas**.
+Este repositório faz parte da matéria do **IESB** e tem como objetivo demonstrar conhecimentos na área de Machine learning
+**Streamlit**.
 
 ---
 
@@ -24,7 +25,7 @@ source venv/bin/activate
 
 ### 2️⃣ Instalar as dependências necessárias
 
-Com o ambiente virtual ativado, instale as bibliotecas necessárias:
+Com o ambiente virtual ativado, instale as bibliotecas necessárias (ou as que forem necessarias para rodar a aplicação):
 ```sh
 pip install pandas streamlit
 ```
@@ -33,7 +34,7 @@ pip install pandas streamlit
 
 Agora, basta rodar o comando abaixo para iniciar a interface interativa com Streamlit:
 ```sh
-streamlit run lerCsv.py
+streamlit run lerCsv.py (ou o nome do arquivo do dever respectivo)
 ```
 
 ---
