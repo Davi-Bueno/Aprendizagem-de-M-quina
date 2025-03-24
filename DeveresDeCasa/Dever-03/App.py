@@ -10,7 +10,7 @@ def criar_csv():
     
     # Criar DataFrame e salvar como CSV
     df = pd.DataFrame(dados)
-    df.to_csv('dados.csv', index=False)
+    df.to_csv('dados.csv', index=False) 
     return "Arquivo dados.csv criado com sucesso!"
 
 def ler_dados():
