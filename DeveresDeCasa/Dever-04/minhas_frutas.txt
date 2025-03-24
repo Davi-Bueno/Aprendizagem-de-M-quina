@@ -1,8 +1,0 @@
-banana,5
-maçã,20
-laranja,57
-uva,19
-maçã,95
-melão,3
-mamão,35
-banana,46
